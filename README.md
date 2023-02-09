@@ -1,8 +1,8 @@
 ## Olá! Sou o Valter Goes
 
 
-<img  height="180em" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ValterGoes&show_icons=true&theme=tokyonight&iclude_all_commits=true&count_private=true"><img  height="180em" width="50%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ValterGoes&show_icons=true&theme=tokyonight&layout=compact">
-
+<!-- <img  height="180em" width="50%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ValterGoes&show_icons=true&theme=tokyonight&iclude_all_commits=true&count_private=true"><img  height="180em" width="50%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ValterGoes&show_icons=true&theme=tokyonight&layout=compact">
+ -->
 
 <div style="display: inline-block;"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
