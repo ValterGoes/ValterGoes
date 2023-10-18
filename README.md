@@ -12,5 +12,5 @@
 <hr>
 
 <div>
-<a href="https://www.linkedin.com/in/valter-goes-896782249" target= "_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
+  <a href="https://www.linkedin.com/in/valter-goes-896782249" target= "_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
 </div>
