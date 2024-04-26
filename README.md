@@ -7,7 +7,6 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="center" alt="Javascript icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/PHP" target="_blank"> <img align="center" alt="php icon" height="40" width="60" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg"> </a>
   <a href="https://pt-br.reactjs.org" target="_blank"> <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> </a>
-  <a href="https://www.typescriptlang.org" target="_blank"> <img align="center" alt="React icon" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"> </a>
   
 <div>
   <a href="https://www.linkedin.com/in/valter-goes-896782249" target= "_blanck"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blanck"></a>
