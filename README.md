@@ -3,7 +3,7 @@
 
 ## Me chamo Valter Goes  👋
 
-Gostaria de me apresentar, sou o Valter e estou migrando da área da indústria, sou estudante, pai de família, trabalhador autônomo e entusiasta na área de tecnologia.
+estudante de tecnologia e apaixonado por aprendizado contínuo. Tenho projetos voltados para front-end e estou expandindo meus conhecimentos para QA e automação de testes. Sempre aberto a novas conexões e desafios!
 
 ## Hards Skills
 <div style="display: inline_block">
