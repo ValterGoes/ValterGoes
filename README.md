@@ -3,7 +3,7 @@
 
 ## Me chamo Valter Goes  👋
 
-Sou estudante de tecnologia, apaixonado por aprendizado contínuo. Tenho projetos focados em front-end e estou expandindo meus conhecimentos para as áreas de QA e automação de testes. Estou sempre aberto a novas conexões e desafios!
+Sou estudante de tecnologia, apaixonado por aprendizado contínuo. Tenho projetos focados em front-end e estou expandindo meus conhecimentos para a área de QA e automação de testes. Estou sempre aberto a novas conexões e desafios!
 
 ## Hards Skills
 <div style="display: inline_block">
