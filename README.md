@@ -38,7 +38,7 @@ Desenvolvedor Front-End com experiência sólida em **React.js**, **Tailwind CSS
 
 ## 🛠️ Hard Skills
 
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Cypress](https://skillicons.dev/icons?i=cypress) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![NodeJS](https://skillicons.dev/icons?i=nodejs)
+![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) ![React](https://skillicons.dev/icons?i=react) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![NodeJS](https://skillicons.dev/icons?i=nodejs)
 
 
 ---
