@@ -38,7 +38,7 @@ Desenvolvedor Front-End com experiência sólida em **React.js**, **Tailwind CSS
 
 ## 🛠️ Hard Skills
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -49,15 +49,6 @@ Desenvolvedor Front-End com experiência sólida em **React.js**, **Tailwind CSS
   <img align="center" alt="Git" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="GitHub" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="NodeJS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValterGoes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=3600"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValterGoes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 ---
