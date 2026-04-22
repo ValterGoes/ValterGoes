@@ -16,7 +16,7 @@
 
 ## 🚀 Sobre mim
 
-Desenvolvedor Front-End com experiência sólida em **React.js**, **Tailwind CSS** e integração de **APIs REST**. Especializado em construir interfaces responsivas, componentizadas e de alta performance.
+Desenvolvedor Front-End com experiência em **React.js**, **Tailwind CSS** e integração de **APIs REST**. Especializado em construir interfaces responsivas, componentizadas e de alta performance.
 
 - 🏢 Atualmente trabalhando como **Desenvolvedor Front-End Freelancer** — Balneário Camboriú, SC
 - 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Universidade La Salle** (jan/2024 – dez/2027)
